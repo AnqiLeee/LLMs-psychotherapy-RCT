@@ -1,0 +1,14 @@
+# G*Power 3.1
+
+Test Family:
+Statistical Test:
+Type of power analysis:
+
+Effect size f: 0.1
+alpha err prob: 0.05
+Power (1-beta err prob): 0.80
+Number of groups: 5
+Number of Measurements: 10
+Corr among repo measurements: 0.5
+
+
