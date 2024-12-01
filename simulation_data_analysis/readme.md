@@ -6,7 +6,7 @@ To test the feasibility of the experiment, we conducted a small-scale pre-test.
 
 **Pre-test Groups**
 
-We selected four groups from the formal experiment for the pre-test, including the Human Novice Therapist Group, Appointment-based 50-minute AI Therapist Group, AI Therapist Anytime Anywhere Group, and Control Group.
+We selected five groups from the formal experiment for the pre-test, including the Human Novice Therapist Group, Appointment-based 50-minute AI Therapist Group, AI Therapist Anytime Anywhere Group and Control Group.
 
 **Participants Recruitment** 
 
@@ -35,10 +35,30 @@ As described in the report, we recruited two novice human therapists using the s
 |:---:|:---:|
 |Human Novice Therapist Group|1 participant completed 3 sessions; 2 participants completed 2 sessions; 2 participants completed 1 session.|
 |Appointment-based 50min AI Group|...|
-|AI Therapist + Anytime Anywhere Group|...|
+|24/7 AI Therapist Group|...|
 |Control Group|4 participants completed 3 weeks; 1 participants completed 2 weeks.|
 
-## Conversation Data & Survey Data & Analysis
+# Before-Experiment Survey & Analysis
+
+
+# Conversation Data & Analysis
+Based on the conversation data collected from the pre-test up to November 23, we calculated the conversation characteristics of participants in each group, including duration (min) and message exchanges, as shown in the table below.
+
+|Group Name|Type|Avg.(std)|Median|Min|Max|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Novice Human|Duration|56.87(7.76)|55.55|45.63|69.87|
+||Messages Sent by Patients|25.60(4.67)|26|17|31|
+|50min AI|Duration|52.88(15.54)|57.74|8.08|66.65|
+||Messages Sent by Patients|56.30(36.86)|44.50|10|145|
+|24/7 AI|Duration|6.63(6.57)|4.22|0.82|25.85|
+||Messages Sent by Patients|8.07(6.54)|6|3|30|
+
+As the conversation data has not yet been anonymized, we have only uploaded the simulated conversation data (in the _conversation_data_ folder), which is formatted in the same way as the real data. Additionally, the _conversation_data_analysis.py_ script supports the analysis of characteristics for the simulated conversation data.
+
+# In-Experiment Survey Data & Analysis
+
+
+
 
 
 
