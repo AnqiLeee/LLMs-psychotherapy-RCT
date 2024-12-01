@@ -16,5 +16,9 @@ The input parameters for calculating the sample size are shown in the following 
 |`Number of measurements`|10|
 |`Corr among rep measurements`|0.5|
 
+The G*Power interface is presented in the figure below:
+
+<img src="https://github.com/AnqiLeee/pilot-data-analysis/blob/main/power_analysis/power_analysis.png" height="480px" width="420px" />
+
 
 
