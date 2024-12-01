@@ -39,10 +39,15 @@ As described in the report, we recruited two novice human therapists using the s
 |Control Group|4 participants completed 3 weeks; 1 participants completed 2 weeks.|
 
 # Before-Experiment Survey & Analysis
+To protect participants' privacy, the data here is all **simulated**. 
+
+We provide the _pre-experiment-analysis.py_ script to perform statistical analysis on participants' demographic information and initial mental health, and to analyze group differences using one-way ANOVA.
 
 
 # Conversation Data & Analysis
-Based on the conversation data collected from the pre-test up to November 23, we calculated the conversation characteristics of participants in each group, including duration (min) and message exchanges, as shown in the table below.
+As the conversation data has not yet been anonymized, we have only uploaded **the simulated conversation data** (in the _conversation_data_ folder), which is formatted in the same way as the real data. Additionally, the _conversation_data_analysis.py_ script supports the analysis of characteristics for the simulated conversation data.
+
+Based on the real conversation data collected from the pre-test up to November 23, we calculated the conversation characteristics of participants in each group, including duration (min) and message exchanges, as shown in the table below.
 
 |Group Name|Type|Avg.(std)|Median|Min|Max|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -56,6 +61,9 @@ Based on the conversation data collected from the pre-test up to November 23, we
 As the conversation data has not yet been anonymized, we have only uploaded the simulated conversation data (in the _conversation_data_ folder), which is formatted in the same way as the real data. Additionally, the _conversation_data_analysis.py_ script supports the analysis of characteristics for the simulated conversation data.
 
 # In-Experiment Survey Data & Analysis
+To ensure participants' privacy, all data provided here is **simulated**.
+
+We offer the _in-experiment-analysis.py_ script for conducting further statistical analyses (e.g., mixed effects regression) to explore how agent type and time influence therapy effectiveness. Additional analysis scripts will be added.
 
 
 
