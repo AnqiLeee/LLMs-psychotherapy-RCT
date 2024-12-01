@@ -16,7 +16,7 @@ Patients were recruited through social media platforms such as Xiaohongshu and W
 
 _Human Therapists_
 
-As described in the report, we recruited two human therapists using the same recruitment process and criteria.
+As described in the report, we recruited two novice human therapists using the same recruitment process and criteria.
 
 **Pre-test Progress**
 
