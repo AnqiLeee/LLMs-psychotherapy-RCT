@@ -1,7 +1,7 @@
 # README
 This directory contains the code for analyzing the pilot data.
 
-## Pre-Test
+## Pre-Test Design
 To test the feasibility of the experiment, we conducted a small-scale pre-test.
 
 **Pre-test Groups**
@@ -37,6 +37,9 @@ As described in the report, we recruited two novice human therapists using the s
 |Appointment-based 50min AI Group|...|
 |AI Therapist + Anytime Anywhere Group|...|
 |Control Group|4 participants completed 3 weeks; 1 participants completed 2 weeks.|
+
+## Conversation Data & Survey Data & Analysis
+
 
 
 
