@@ -1,6 +1,6 @@
-# G*Power 3.1
+# G*Power version: 3.1.9
 
-Test Family:
+Test Family: 
 Statistical Test:
 Type of power analysis:
 
